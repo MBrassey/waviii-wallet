@@ -1,6 +1,6 @@
 <img align="right" src="Etherscan.io/waviii.gif">
 
-![iiiWallet_logo](src/iiiWallet_logo_small.png) 
+![iiiWallet_logo](src/iiiWallet_small.png) 
 # iiiWallet
 
 Official waviii Token Wallet
