@@ -27,8 +27,8 @@ class App extends Component {
     const web3 = window.web3
     const accounts = await web3.eth.getAccounts()
     this.setState({ account: accounts[0] })
-    const daiTokenAddress = "0xBA00868912Af1a409F11E9c2B5d3a9376Cb3C2E2" // waviii Token Contract Address
-    const waviiiToken = new web3.eth.Contract(waviii.abi, daiTokenAddress)
+    const TokenAddress = "0xBA00868912Af1a409F11E9c2B5d3a9376Cb3C2E2" // waviii Token Contract Address
+    const waviiiToken = new web3.eth.Contract(waviii.abi, TokenAddress)
     this.setState({ waviiiToken: waviiiToken })
     const balance = await waviiiToken.methods.balanceOf(this.state.account).call()
     this.setState({ balance: web3.utils.fromWei(balance.toString(), 'Ether') })
