@@ -6,7 +6,7 @@
  */
  :root {
     --blue: #d6dee2;
-    --indigo: #6610f2;
+    --indigo: #ffffff;
     --purple: #6f42c1;
     --pink: #e83e8c;
     --red: #dc3545;
@@ -26,7 +26,7 @@
     --danger: #dc3545;
     --light: #f8f9fa;
     --dark: #ffffff;
-    --iiiNav: #2d2d2d;
+    --iiiNav: #ffffff;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
@@ -1513,25 +1513,26 @@
   }
   
   .table {
-    width: 100%;
+    width: 98%;
+    margin-top: 1rem;
     margin-bottom: 1rem;
-    color: #212529;
+    color: #2d2d2d;
   }
   
   .table th,
   .table td {
     padding: 0.75rem;
     vertical-align: top;
-    border-top: 1px solid #dee2e6;
+    border-top: 1px solid #dfe5e8;
   }
   
   .table thead th {
     vertical-align: bottom;
-    border-bottom: 2px solid #dee2e6;
+    border-bottom: 2px solid #dfe5e8;
   }
   
   .table tbody + tbody {
-    border-top: 2px solid #dee2e6;
+    border-top: 2px solid #dfe5e8;
   }
   
   .table-sm th,
@@ -1864,7 +1865,7 @@
     font-weight: 400;
     line-height: 1.5;
     color: #495057;
-    background-color: #fff;
+    background-color: #dfe5e8;
     background-clip: padding-box;
     border: 1px solid #ced4da;
     border-radius: 0.25rem;
@@ -2421,15 +2422,15 @@
   }
   
   .btn-primary {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    color: #dfe5e8;
+    background-color: #2c91c8;
+    border-color: #ced4da;
   }
   
   .btn-primary:hover {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    background-color: #317599;
+    border-color: #ced4da;
   }
   
   .btn-primary:focus, .btn-primary.focus {
@@ -2985,7 +2986,7 @@
   
   .btn-block {
     display: block;
-    width: 100%;
+    width: 98.5%;
   }
   
   .btn-block + .btn-block {
@@ -4503,7 +4504,7 @@
   }
   
   .navbar-dark .navbar-brand {
-    color: #fff;
+    color: #2c91c8;
   }
   
   .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
@@ -4526,7 +4527,7 @@
   .navbar-dark .navbar-nav .active > .nav-link,
   .navbar-dark .navbar-nav .nav-link.show,
   .navbar-dark .navbar-nav .nav-link.active {
-    color: #fff;
+    color: #2c91c8;
   }
   
   .navbar-dark .navbar-toggler {
@@ -4543,11 +4544,11 @@
   }
   
   .navbar-dark .navbar-text a {
-    color: #fff;
+    color: #2c91c8;
   }
   
   .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
-    color: #fff;
+    color: #2c91c8;
   }
   
   .card {
@@ -6579,7 +6580,7 @@
   }
   
   .bg-dark {
-    background-color: #343a40 !important;
+    background-color: #2d2d2d !important;
   }
   
   a.bg-dark:hover, a.bg-dark:focus,
