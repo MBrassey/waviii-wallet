@@ -1,4 +1,4 @@
-<img align="right" src="src/iiiWallet.png">
+<img align="right" src="src/iiiWalletv1.png">
 
 ![iiiWallet_logo](src/iiiWallet_small.png) 
 # iiiWallet
