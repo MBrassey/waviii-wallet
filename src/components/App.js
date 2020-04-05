@@ -3,7 +3,7 @@ import waviiiLogo from '../../src/iiiWallet.png';
 import Web3 from 'web3';
 import waviii from '../abis/waviii.json'
 
-document.body.style = 'background: #CED4D8;';
+document.body.style = 'background: #BDC3C7;';
 
 class App extends Component {
   async componentWillMount() {
@@ -70,7 +70,7 @@ class App extends Component {
           
           <a
             className="navbar-brand px-3"
-            href="https://github.com/luc1dLife/iiiWallet"
+            href="https://etherscan.io/address/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -109,7 +109,7 @@ class App extends Component {
                       placeholder="Amount"
                       required />
                   </div>
-                  <button type="submit" className="btn btn-primary btn-block">Send</button>
+                  <button type="submit" className="btn btn-primary btn-block"><strong>Send</strong></button>
                 </form>
                 <table className="table">
                   <thead>

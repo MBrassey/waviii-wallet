@@ -1865,9 +1865,9 @@
     font-weight: 400;
     line-height: 1.5;
     color: #495057;
-    background-color: #dfe5e8;
+    background-color: #CED4D8;
     background-clip: padding-box;
-    border: 1px solid #ced4da;
+    border: 1px solid #CED4D8;
     border-radius: 0.25rem;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   }
@@ -2424,13 +2424,13 @@
   .btn-primary {
     color: #dfe5e8;
     background-color: #2c91c8;
-    border-color: #ced4da;
+    border-color: #BDC3C7;
   }
   
   .btn-primary:hover {
     color: #fff;
     background-color: #317599;
-    border-color: #ced4da;
+    border-color: #BDC3C7;
   }
   
   .btn-primary:focus, .btn-primary.focus {

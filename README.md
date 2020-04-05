@@ -1,4 +1,4 @@
-<img align="right" src="Etherscan.io/waviii.gif">
+<img align="right" src="src/iiiWallet.png">
 
 ![iiiWallet_logo](src/iiiWallet_small.png) 
 # iiiWallet
