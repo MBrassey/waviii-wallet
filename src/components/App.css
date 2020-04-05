@@ -4508,7 +4508,7 @@
   }
   
   .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-    color: #fff;
+    color: #317599;
   }
   
   .navbar-dark .navbar-nav .nav-link {
@@ -8143,7 +8143,8 @@
   
   .pr-3,
   .px-3 {
-    padding-right: 1rem !important;
+    padding-right: .0rem !important;
+    font-size: medium;
   }
   
   .pb-3,

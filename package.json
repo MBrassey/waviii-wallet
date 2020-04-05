@@ -4,6 +4,7 @@
   "description": "Official waviii Token Wallet",
   "author": "luc1d_life@protonmail.com",
   "dependencies": {
+    "@material-ui/core": "^4.9.9",
     "react": "16.8.4",
     "react-dom": "16.8.4",
     "react-scripts": "2.1.3",

@@ -67,16 +67,17 @@ class App extends Component {
           >
             iiiWallet
           </a>
-
-
-          <ul className="navbar-nav px-3">
-          <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
-            <small className="text-white"><span id="account">{this.props.account}</span></small>
-          </li>
-        </ul>
-
+          
+          <a
+            className="navbar-brand px-3"
+            href="https://github.com/luc1dLife/iiiWallet"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          <span>{this.state.account}</span>
+          
+          </a>
         </nav>
-
 
         <div className="container-fluid mt-5">
           <div className="row">
