@@ -1,9 +1,9 @@
 {
-  "short_name": "Starter Kit",
-  "name": "Dapp University Starter Kit",
+  "short_name": "iiiWallet",
+  "name": "Official waviii Token Wallet",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "%PUBLIC_URL%/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
