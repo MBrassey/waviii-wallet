@@ -1,7 +1,7 @@
 <img align="right" src="src/iiiWalletv1.png">
 
 ![iiiWallet_logo](src/iiiWallet_small.png) 
-# iiiWallet
+# iiiWallet 
 
 Official waviii Token Wallet
 
@@ -13,3 +13,5 @@ iiiWallet is a web3 wallet designed specifically for the waviii Ethereum Token.
 This is the Tier-1 token wallet included in the waviii Decentralized Application Suite. 
 
 Capabilities in this release include Metamask integration and to send and receive waviii token. The web wallet also displays account address, balance, and sent transaction history.
+
+<a href=""><img align="right" src="https://img.shields.io/badge/iiiWallet-Tier--1-%232c91c8"></a>
