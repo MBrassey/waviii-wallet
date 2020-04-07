@@ -9,3 +9,5 @@ Official waviii Token Wallet
 ─── [waviii Token](https://github.com/luc1dLife/waviii)
 
 iiiWallet is a web3 wallet designed specifically for the waviii Ethereum Token. This is the Tier-1 token wallet included in the waviii Decentralized Application Suite. 
+
+Capabilities in this release include Metamask integration and to send and receive waviii token. The web wallet also displays account address, balance, and sent transaction history.
