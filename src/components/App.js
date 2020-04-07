@@ -36,6 +36,7 @@ class App extends Component {
     const transactions = await waviiiToken.getPastEvents('Transfer', { fromBlock: 0, toBlock: 'latest', filter: { from: this.state.account } })
     this.setState({ transactions: transactions })
     console.log(transactions)
+    var etherscanaddress = this.state.account
   }
 
   transfer(recipient, amount) {
@@ -70,7 +71,7 @@ class App extends Component {
           
           <a
             className="navbar-brand px-3"
-            href="https://etherscan.io/address/"
+            href= 'https://etherscan.io/address/'
             target="_blank"
             rel="noopener noreferrer"
           >
