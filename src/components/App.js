@@ -36,7 +36,6 @@ class App extends Component {
     const transactions = await waviiiToken.getPastEvents('Transfer', { fromBlock: 0, toBlock: 'latest', filter: { from: this.state.account } })
     this.setState({ transactions: transactions })
     console.log(transactions)
-    var etherscanaddress = this.state.account
   }
 
   transfer(recipient, amount) {
@@ -54,7 +53,7 @@ class App extends Component {
 
     this.transfer = this.transfer.bind(this)
   }
-
+  
   render() {
     return (
       <div>
@@ -112,6 +111,7 @@ class App extends Component {
                   </div>
                   <button type="submit" className="btn btn-primary btn-block"><strong>Send</strong></button>
                 </form>
+
                 <table className="table">
                   <thead>
                     <tr>

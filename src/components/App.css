@@ -376,6 +376,11 @@ template {
     display: none !important;
 }
 
+progress {
+width: 90%;    
+}
+
+
 h1,
 h2,
 h3,
