@@ -8,9 +8,9 @@ Official waviii Token Wallet
 ─── [Access iiiWallet](https://etherscan.io/token/0xBA00868912Af1a409F11E9c2B5d3a9376Cb3C2E2)<br />
 ─── [waviii Token](https://github.com/luc1dLife/waviii)
 
-iiiWallet is a Web3 wallet designed specifically for the waviii Ethereum Token.
+iiiWallet is a Beautiful Web3 wallet designed specifically for the waviii Ethereum Token.
 
-To Obtain Your Own Custom Ethereum Token and Wallet, Head Over to waviii.io. 
+To Obtain Your Own Custom Crafted Ethereum Token and Wallet, Head Over to waviii.io. 
 
 Capabilities of the Tier-1 Token Wallet Include:
 * Metamask Integration
