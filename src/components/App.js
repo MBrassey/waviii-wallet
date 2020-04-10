@@ -3,7 +3,7 @@ import waviiiLogo from '../../src/iiiWallet.png';
 import Web3 from 'web3';
 import waviii from '../abis/waviii.json'
 
-document.body.style = 'background: #BDC3C7;';
+document.body.style = 'background: #ACB2B6;';
 
 class App extends Component {
   async componentWillMount() {
@@ -33,7 +33,7 @@ class App extends Component {
     this.setState({ waviiiToken: waviiiToken })
     const balance = await waviiiToken.methods.balanceOf(this.state.account).call()
     this.setState({ balance: web3.utils.fromWei(balance.toString(), 'Ether') })
-    const transactions = await waviiiToken.getPastEvents('Transfer', { fromBlock: 0, toBlock: 'latest', filter: { from: this.state.account } })
+    const transactions = await waviiiToken.getPastEvents('Transfer', { fromBlock: 0, toBlock: 'latest' })
     this.setState({ transactions: transactions })
     console.log(transactions)
   }
@@ -53,7 +53,7 @@ class App extends Component {
 
     this.transfer = this.transfer.bind(this)
   }
-  
+
   render() {
     return (
       <div>

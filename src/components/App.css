@@ -1966,9 +1966,9 @@ pre code {
     font-weight: 400;
     line-height: 1.5;
     color: #495057;
-    background-color: #CED4D8;
+    background-color: #BDC3C7;
     background-clip: padding-box;
-    border: 1px solid #CED4D8;
+    border: 1px solid #BDC3C7;
     border-radius: 0.25rem;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -1985,7 +1985,7 @@ pre code {
 }
 
 .form-control:focus {
-    color: #495057;
+    color: #BDC3C7;
     background-color: #fff;
     border-color: #80bdff;
     outline: 0;
@@ -2568,13 +2568,13 @@ fieldset:disabled a.btn {
 .btn-primary {
     color: #dfe5e8;
     background-color: #2c91c8;
-    border-color: #BDC3C7;
+    border-color: #ACB2B6;
 }
 
 .btn-primary:hover {
     color: #fff;
     background-color: #317599;
-    border-color: #BDC3C7;
+    border-color: #ACB2B6;
 }
 
 .btn-primary:focus,
