@@ -10,7 +10,7 @@ Official waviii Token Wallet
 
 iiiWallet is a web3 wallet designed specifically for the waviii Ethereum Token.
 
-To obtain your own Custom Ethereum Token and Wallet, head over to waviii.io. 
+To Obtain Your Own Custom Ethereum Token and Wallet, Head Over to waviii.io. 
 
 Capabilities of the Tier-1 Token Wallet Include:
 * Metamask Integration
