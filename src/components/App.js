@@ -120,7 +120,7 @@ class App extends Component {
                     </tr>
                   </thead>
                   <tbody>
-                    { this.state.transactions.map((tx, key) => {
+                    { this.state.transactions.slice().reverse().map((tx, key) => {
                       return (
                         <tr key={key} >
                           <td>{tx.returnValues.to}</td>
