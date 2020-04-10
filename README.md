@@ -10,6 +10,10 @@ Official waviii Token Wallet
 
 iiiWallet is a web3 wallet designed specifically for the waviii Ethereum Token. Build Your Own. This is the Tier-1 token wallet included in the waviii Custom Ethereum Token Suite. 
 
-Capabilities in this release include Metamask integration and to send and receive waviii token. The web wallet also displays account address, balance, and sent transaction history.
+Capabilities of the Tier-1 Token Wallet Include:
+* Metamask integration
+* Ability to Send & Receive waviii Token
+* Display Wallet Address hyperlinked to the address on Etherscan
+* List Sent & Received Transactions Latest to Oldest
 
 <a href=""><img align="right" src="https://img.shields.io/badge/iiiWallet-Tier--1-%232c91c8"></a>
