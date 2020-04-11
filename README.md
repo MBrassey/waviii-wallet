@@ -5,7 +5,7 @@
 
 Official waviii Token Wallet
 
-─── [Access iiiWallet](https://waviii.io/)<br />
+─── [Access iiiWallet](https://waviii.io/Tier-1_Wallet/)<br />
 ─── [waviii Token](https://github.com/luc1dLife/waviii)
 
 iiiWallet is a Beautiful Web3 wallet designed specifically for the waviii Ethereum Token Cryptocurrency.
