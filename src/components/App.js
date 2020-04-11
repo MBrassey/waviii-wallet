@@ -33,7 +33,9 @@ class App extends Component {
     this.setState({ waviiiToken: waviiiToken })
     const balance = await waviiiToken.methods.balanceOf(this.state.account).call()
     this.setState({ balance: web3.utils.fromWei(balance.toString(), 'Ether') })
-    const transactions = await waviiiToken.getPastEvents('Transfer', { fromBlock: 0, toBlock: 'latest' })
+    const transactions = (await Promise.all([
+      waviiiToken.getPastEvents('Transfer', { fromBlock: 0, toBlock: 'latest', filter: { from: this.state.account } }), 
+      waviiiToken.getPastEvents('Transfer', { fromBlock: 0, toBlock: 'latest', filter: { to: this.state.account } })])).flat()
     this.setState({ transactions: transactions })
     console.log(transactions)
   }
@@ -120,7 +122,7 @@ class App extends Component {
                     </tr>
                   </thead>
                   <tbody>
-                    { this.state.transactions.slice().reverse().map((tx, key) => {
+                    { this.state.transactions.sort((a, b) => a.blockNumber < b.blockNumber).map((tx, key) => {
                       return (
                         <tr key={key} >
                           <td>{tx.returnValues.to}</td>
