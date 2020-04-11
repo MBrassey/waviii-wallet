@@ -12,7 +12,7 @@ iiiWallet is a Beautiful Web3 wallet designed specifically for the waviii Ethere
 
 To Obtain Your Own Custom Crafted Ethereum Token and Wallet, Head Over to [waviii.io](https://waviii.io). 
 
-Capabilities of the Tier-1 Token Wallet Include:
+Capabilities of the Tier-1 waviii Token Wallet Include:
 * Metamask Integration
 * Send & Receive waviii
 * Display Wallet Address
