@@ -18,4 +18,4 @@ Capabilities of the Tier-1 Token Wallet Include:
 * Display Wallet Address
 * List All Transactions
 
-<a href=""><img align="right" src="https://img.shields.io/badge/iiiWallet-Tier--1-%232c91c8"></a>
+<a href=""><img align="right" src="https://waviii.io"></a>
