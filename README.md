@@ -1,11 +1,11 @@
-<a href="https://etherscan.io/token/0xBA00868912Af1a409F11E9c2B5d3a9376Cb3C2E2" target="_blank"><img align="right" src="src/iiiWalletv1.png"></a>
+<a href="https://iiiwallet.herokuapp.com/" target="_blank"><img align="right" src="src/iiiWalletv1.png"></a>
 
 ![iiiWallet_logo](src/iiiWallet_small.png) 
 # iiiWallet 
 
 Official waviii Token Wallet
 
-─── [Access iiiWallet](https://waviii.io/Tier-1_Wallet/)<br />
+─── [Access iiiWallet](https://iiiwallet.herokuapp.com/)<br />
 ─── [waviii Token](https://github.com/luc1dLife/waviii)
 
 iiiWallet is a Beautiful Web3 wallet designed specifically for the waviii Ethereum Token Cryptocurrency.
