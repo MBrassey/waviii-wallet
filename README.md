@@ -1,2 +1,2 @@
-![wavWallet](src/wallet.gif) 
 # wavWallet
+![wavWallet](src/wallet.gif)
