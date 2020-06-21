@@ -2567,13 +2567,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #dfe5e8;
-    background-color: #2c91c8;
+    background-color: #2994cb;
     border-color: #ACB2B6;
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #317599;
+    background-color: #2994cb;
     border-color: #ACB2B6;
 }
 
@@ -3198,7 +3198,7 @@ fieldset:disabled a.btn {
 
 .btn-block {
     display: block;
-    width: 98.5%;
+    width: 100%;
 }
 
 .btn-block+.btn-block {
@@ -10346,6 +10346,7 @@ a.text-dark:focus {
         color: inherit;
         border-color: #dee2e6;
     }
+
 }
 
 
