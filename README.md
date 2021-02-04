@@ -1,5 +1,5 @@
 ## waviii-wallet
-ERC-20 Token Wallet for the waviii Ethereum Token.
+Web3 ERC-20 Token Wallet for the waviii Ethereum Token. Deployed to the InterPlanetary FileSystem (IPFS). This component is used within the official [waviii.io](https://github.com/MBrassey/waviii.io) dApp.
 
 [![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)](https://github.com/MBrassey/waviii-wallet/blob/master/LICENSE)
 
