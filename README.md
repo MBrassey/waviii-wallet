@@ -1,7 +1,7 @@
 ## waviii-wallet
 ERC-20 Token Wallet for the waviii Ethereum Token.
 
-[![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)](https://github.com/MBrassey/waviii-wallet/blob/main/LICENSE)
+[![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)](https://github.com/MBrassey/waviii-wallet/blob/master/LICENSE)
 
 #### Issues
 
