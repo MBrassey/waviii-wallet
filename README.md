@@ -35,7 +35,7 @@ waviii Token is the Mainnet ERC-20 Ethereum Token waviii-wallet was designed for
 > [<img src="src/assets/img/Preview.gif">](https://brassey.io/)
 
 > No MetaMask Installed
-> [<img src="src/assets/img/noEth.gif">](https://brassey.io/)
+> [<img src="src/assets/img/noEth.png">](https://brassey.io/)
 
 > Setup
 > [<img src="src/assets/img/Setup.gif">](https://brassey.io/)
