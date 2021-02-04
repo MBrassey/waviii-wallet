@@ -7,13 +7,18 @@ ERC-20 Token Wallet for the waviii Ethereum Token.
 
 - [x] [Integrate with smartcontract, Initial setup](https://github.com/MBrassey/waviii-wallet/issues/1)
 - [x] [Locked View, React Animations & App Cleanup](https://github.com/MBrassey/waviii-wallet/issues/2)
-- [x] [](https://github.com/MBrassey/waviii-wallet/issues/3)
+- [x] [Complete Documentation / Deploy 2 IPFS](https://github.com/MBrassey/waviii-wallet/issues/3)
 
 #### The waviii Token
 waviii Token is the Mainnet ERC-20 Ethereum Token waviii-wallet was designed for. The Max Supply of waviii is one million. The live Token Smartcontract can be viewed on [Etherscan](https://etherscan.io/token/0x9cc6754d16b98a32ec9137df6453ba84597b9965) and its Source Code on [GitHub](https://github.com/MBrassey/waviii-token).
 
 > Token
 > [<img src="src/assets/img/Token.gif">](https://github.com/MBrassey/waviii-token)
+
+
+#### IPFS
+
+The waviii-wallet react component is deployed to IPFS. The images, text, styles and javascript are all hosted on the InterPlanetary FileSystem (IPFS) in a fully decentralized way. In connjunction with the Ethereum SmartContract backend, waviii-wallet is a dApp (Decentralized Application). As there is no central point of failure or central point of management, the dApp is highly redundant as well as highly censorship resistant.
 
 #### Requirements
 
@@ -35,7 +40,7 @@ waviii Token is the Mainnet ERC-20 Ethereum Token waviii-wallet was designed for
 > [<img src="src/assets/img/Preview.gif">](https://brassey.io/)
 
 > No MetaMask Installed
-> [<img src="src/assets/img/noEth.png">](https://brassey.io/)
+> [<img src="src/assets/img/noEth.gif">](https://brassey.io/)
 
 > Setup
 > [<img src="src/assets/img/Setup.gif">](https://brassey.io/)
