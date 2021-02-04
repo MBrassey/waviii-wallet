@@ -6,7 +6,7 @@ ERC-20 Token Wallet for the waviii Ethereum Token.
 #### Issues
 
 - [x] [Integrate with smartcontract, Initial setup](https://github.com/MBrassey/waviii-wallet/issues/1)
-- [x] [Partial functionality without Metamask](https://github.com/MBrassey/waviii-wallet/issues/2)
+- [x] [Locked View, React Animations & App Cleanup](https://github.com/MBrassey/waviii-wallet/issues/2)
 - [x] [](https://github.com/MBrassey/waviii-wallet/issues/3)
 
 #### The waviii Token
@@ -33,6 +33,9 @@ waviii Token is the Mainnet ERC-20 Ethereum Token waviii-wallet was designed for
 
 > Preview
 > [<img src="src/assets/img/Preview.gif">](https://brassey.io/)
+
+> No MetaMask Installed
+> [<img src="src/assets/img/noEth.gif">](https://brassey.io/)
 
 > Setup
 > [<img src="src/assets/img/Setup.gif">](https://brassey.io/)

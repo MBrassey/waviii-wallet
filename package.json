@@ -1,8 +1,8 @@
 {
-  "name": "iiiWallet",
+  "name": "waviii-wallet",
   "version": "0.1.0",
   "description": "Official waviii Token Wallet",
-  "author": "luc1d_life@protonmail.com",
+  "author": "Matt Brassey",
   "dependencies": {
     "@material-ui/core": "^4.9.9",
     "font-awesome": "^4.7.0",
@@ -13,7 +13,8 @@
     "react-loadingg": "^1.7.2",
     "react-countup": "^4.2.2",
     "reactstrap": "8.4.1",
-    "web3": "1.0.0-beta.55"
+    "web3": "1.0.0-beta.55",
+    "react-fade-in": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
