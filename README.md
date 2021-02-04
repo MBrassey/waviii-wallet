@@ -18,7 +18,7 @@ waviii Token is the Mainnet ERC-20 Ethereum Token waviii-wallet was designed for
 
 #### IPFS
 
-The waviii-wallet react component is deployed to IPFS. The images, text, styles and javascript are all hosted on the InterPlanetary FileSystem (IPFS) in a fully decentralized way. In connjunction with the Ethereum SmartContract backend, waviii-wallet is a dApp (Decentralized Application). As there is no central point of failure or central point of management, the dApp is highly redundant as well as highly censorship resistant.
+The waviii-wallet react component is [deployed](https://waviii-wallet.on.fleek.co/) to IPFS. The images, text, styles and javascript are all hosted on the InterPlanetary FileSystem (IPFS) in a fully decentralized way. In connjunction with the Ethereum SmartContract backend, waviii-wallet is a dApp (Decentralized Application). As there is no central point of failure or central point of management, the dApp is highly redundant as well as highly censorship resistant.
 
 #### Requirements
 
@@ -34,16 +34,16 @@ The waviii-wallet react component is deployed to IPFS. The images, text, styles 
     npm run start
     browse: localhost:3001/
 
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://brassey.io/">webapplication</a></p></h6>
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://waviii-wallet.on.fleek.co/">webapplication</a></p></h6>
 
 > Preview
-> [<img src="src/assets/img/Preview.gif">](https://brassey.io/)
+> [<img src="src/assets/img/Preview.gif">](https://waviii-wallet.on.fleek.co/)
 
 > No MetaMask Installed
-> [<img src="src/assets/img/noEth.gif">](https://brassey.io/)
+> [<img src="src/assets/img/noEth.gif">](https://waviii-wallet.on.fleek.co/)
 
 > Setup
-> [<img src="src/assets/img/Setup.gif">](https://brassey.io/)
+> [<img src="src/assets/img/Setup.gif">](https://waviii-wallet.on.fleek.co/)
 
 #### Questions
 
